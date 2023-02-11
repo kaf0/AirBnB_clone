@@ -169,6 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Gertrude Seworh | Email: [gertrudeseworh](mailto:gertrudeseworh@gmail.com) 
-
-Nathan Pillay | Github: [nathanpillay](mailto:@gmail.com)
+Gertrude Seworh | Email: [gertrudeseworh](mailto:gertrudeseworh@gmail.com)
